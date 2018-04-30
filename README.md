@@ -9,7 +9,7 @@ You need an extra linux server to be the man in the middle
 
 Server running command：
 ```bash
-yum install git;git clone https://github.com/1181935195/pubg-map.git; chmod +x . /root/pubg-map/update.sh;. /root/pubg-map/update.sh
+yum install git;git clone https://github.com/kadwh/pubg-map.git; chmod +x . /root/pubg-map/update.sh;. /root/pubg-map/update.sh
 ```
 
 ## Translation
